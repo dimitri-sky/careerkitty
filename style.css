@@ -1,0 +1,35 @@
+/* body {
+    background: #9c66ed !important; 
+} */
+
+h1, h6, h5, nav {
+    color: rgb(6, 130, 255) !important; 
+}
+
+/* div {
+    margin: 6rem;
+} */
+
+#mar1 {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+#kitty {
+    width: 40%;
+    height: 20%;
+    margin-top: -5%;
+}
+
+#bg1 {
+    width: 30%;
+    height: 30%;
+}
+
+#donate{
+    margin-left: 1rem;
+}
+
+#mar2 {
+    margin-left: 20%;
+}
